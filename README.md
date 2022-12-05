@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository contains some of my data science and data analysis projects completed for as port of my academic and self learning journey. 
+This repository contains some of my data science and data analysis projects completed for as part of my academic and self learning journey. 
 
 ## Contents
 
