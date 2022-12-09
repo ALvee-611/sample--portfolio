@@ -11,7 +11,7 @@ This repository contains some of my data science and data analysis projects comp
 
 - ### Python
 
-	- [Predicting players' ratings based on Woogles.io (Scrabble) gameplay](https://github.com/ALvee-611/Scrabble-Player-Rating): Used various statistical supervised models like Rnadom Forest Regressor and XGBoost to try predicting the ratings of a player based on their gameplay. This work is still in progress as I continue to try improve on my current work to get a better result
+	- [Predicting players' ratings based on Woogles.io (Scrabble) gameplay](https://github.com/ALvee-611/Scrabble-Player-Rating): Used various statistical supervised models like Rnadom Forest Regressor and XGBoost to try predicting the ratings of a player based on their gameplay. This work is still in progress as I continue to try improve on my current work to get a better result. [Currently ranked 21 out of 204](https://www.kaggle.com/competitions/scrabble-player-rating/leaderboard#)
 	- [Image Classifier: Mask or No Mask?](https://github.com/ALvee-611/Project-Samples/blob/main/Data%20Science/image_classifier.ipynb): Designed a simple image classifier that can detect if the person in the image is wearing a mask or not. The data for this project was collected by scraping Google images using a browser extension. 
 
 - ### SQL
