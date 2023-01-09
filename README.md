@@ -3,7 +3,7 @@ This repository contains some of my data science and data analysis projects comp
 
 ## Contents
 - ### Power BI Dashboard
-	-[End-to-End Business Intelligence Dashboard](https://github.com/ALvee-611/Project-Samples/tree/main/Dashboards/AdventureWorks): connected to different data sources, built complex relational data models, added calculated fields and measures using DAX and designed an interactive dashboard from scratch to highlight jey insights and KPI
+	- [End-to-End Business Intelligence Dashboard](https://github.com/ALvee-611/Project-Samples/tree/main/Dashboards/AdventureWorks): connected to different data sources, built complex relational data models, added calculated fields and measures using DAX and designed an interactive dashboard from scratch to highlight jey insights and KPI
 	
 - ### R
 
