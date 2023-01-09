@@ -2,7 +2,9 @@
 This repository contains some of my data science and data analysis projects completed for as part of my academic and self learning journey. 
 
 ## Contents
-
+- ### Power BI Dashboard
+	-[End-to-End Business Intelligence Dashboard](https://github.com/ALvee-611/Project-Samples/tree/main/Dashboards/AdventureWorks): connected to different data sources, built complex relational data models, added calculated fields and measures using DAX and designed an interactive dashboard from scratch to highlight jey insights and KPI
+	
 - ### R
 
 	- [Exploratory data analysis using R](https://www.kaggle.com/alveejawadchowdhury/exploratory-analysis-using-r/notebook): Explored how funding changed over the 3 years period and performed Topic Modelling on the organization's description to see if there were any common themes
